@@ -10,8 +10,10 @@ body {
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
     background-color: white;
 }
-.clear_fix{
+.clear_fix:after{
+    content: '';
     clear: both;
+    display: block;
 }
 img {
     margin-top: 62px;

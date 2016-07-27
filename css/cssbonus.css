@@ -9,8 +9,10 @@ body {
     width: 960px;
     margin: 0 auto;
 }
-.clear_fix {
+.clear_fix:after{
+    content: '';
     clear: both;
+    display: block;
 }
 /*header begin*/
 .logo{
