@@ -1,0 +1,15 @@
+body {
+background-image: url(../img/background.png);
+    background-size: cover;
+}
+.container{
+    width: 816px;
+    margin: 0 auto;
+    height: 1000px
+    
+}
+.logo{
+    background-image: url("../img/logo1.png");
+    width: 263px;
+    height: 37px;
+}
