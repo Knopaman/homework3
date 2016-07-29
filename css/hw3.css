@@ -40,9 +40,11 @@ img {
     font-size: 15px;
     font-weight: 400;
     line-height: 40px;
+    transition: 0.2s all;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
 }
 .nav a:hover{
-    width: 98px;
     border-left: 1px solid #838383;
     border-right: 1px solid #838383;
     background-color: white;
@@ -79,6 +81,7 @@ img {
     text-align: left;
     color: #656363;
     padding-left: 23px;
+    transition: 0.2s all;
 }
 .menu a:hover{
     background-color: #f9f9f9;
@@ -99,7 +102,7 @@ img {
     margin-top: 40px;
 }
 .bicycle{
-    background:  url("../img/image.png") top center no-repeat;
+    background:  url("../../../Desktop/git/homework3/img/image.png") top center no-repeat;
     width: 500px;
     height: 307px;
     margin-left: 89px;
