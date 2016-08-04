@@ -66,11 +66,11 @@ img {
     margin-left: 45px;
     margin-top: 40px;
     float: left;
+    width: 217px;
 }
 .menu a{
     display: block;
     text-decoration: none;
-    width: 217px;
     background-color: white;
     border: 1px solid #c8c8c8;
     font-weight: 400;
@@ -82,7 +82,6 @@ img {
 }
 .menu a:hover{
     padding-left: 35px;
-    width: 205px;
     background-color: rgb(249,249,249);
 }
 /*menu end*/
@@ -97,7 +96,7 @@ img {
     margin-top: 40px;
 }
 .bicycle{
-    background:  url("../../../Desktop/git/homework3/img/image.png") top center no-repeat;
+    background:  url("../img/image.png") top center no-repeat;
     width: 500px;
     height: 307px;
     margin-left: 89px;
