@@ -71,7 +71,6 @@ img {
     display: block;
     text-decoration: none;
     width: 217px;
-    height: 38px;
     background-color: white;
     border: 1px solid #c8c8c8;
     font-weight: 400;
@@ -83,9 +82,7 @@ img {
 }
 .menu a:hover{
     padding-left: 35px;
-    padding-bottom: 4px;
     width: 205px;
-    height: 34px;
     background-color: rgb(249,249,249);
 }
 /*menu end*/
